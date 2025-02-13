@@ -12,10 +12,10 @@ My name is Wagner Azevedo, and I am currently a 19-year-old Brazilian student en
     <a href="https://www.linkedin.com/in/wagner-azevedo-9209b4301/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     </a>
-    <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=CllgCJlHnMcdxcmhJLfcthVQKndqCBXHhtJMfwckhQVjrmRPmpDwVpBNKlvMBCNrfNcZDCqTMqV"><img width="32px" alt="E-mail" title="E-mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_(2020).svg/1024px-Gmail_icon_(2020).svg.png?20201210105308"/></a>
+    <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=GTvVlcSGKZRMsjmFmlmGcRmlJbjtnhZcKhPDDtwcvnfmpTdFqVfHhRLhDHntJBwkFcQTqdQCwCWQf"><img width="32px" alt="E-mail" title="E-mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_(2020).svg/1024px-Gmail_icon_(2020).svg.png?20201210105308"/></a>
   &#8287;&#8287;&#8287;
     </a>
-    <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=CllgCJlHnMcdxcmhJLfcthVQKndqCBXHhtJMfwckhQVjrmRPmpDwVpBNKlvMBCNrfNcZDCqTMqV"><img width="45px" alt="Instagram" title="Instagram" src="https://freepngimg.com/download/logo/69813-instagram-logo-computer-royalty-free-icons-free-download-png-hq.png"/></a>
+    <a href="https://instagram.com/wagnerazevedoj"><img width="45px" alt="Instagram" title="Instagram" src="https://freepngimg.com/download/logo/69813-instagram-logo-computer-royalty-free-icons-free-download-png-hq.png"/></a>
   &#8287;&#8287;&#8287;&#8287;
     </a>
 </p>
